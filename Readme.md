@@ -1,4 +1,4 @@
-This Weather app is made using API from https://nabilazahraa.github.io/Weather-App/
+This Weather app is made using API from https://openweathermap.org/
 
 To test this weather app,
 
